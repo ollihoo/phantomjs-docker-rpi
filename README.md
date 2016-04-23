@@ -9,3 +9,7 @@ was built in a docker container by hypriot (hypriot/rpi-node:latest).
 # Aim
 This docker container offers a phantomjs that can be used to do selenium
 requests.
+
+# More information:
+
+http://hoogvliet.de/phantomjs-on-raspberry
